@@ -1,0 +1,6 @@
+[package]
+name = "simple_array_sum"
+version = "0.1.0"
+authors = ["steensgaard <34754189+steensgaard@users.noreply.github.com>"]
+
+[dependencies]
